@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="view port" content="with=device-width, initial-scale=1.0">
+<title>college website</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<section class="header">
+<nav>
+<a href="website.html"> <img src="C:\Users\Abhilash Goud\Documents/images/logo.png"</a>
+<div class="nav-links">
+<ul>
+<li><a href="form.html" target="_parent">HOME</a></li>
+<li><a href="" target="_blank">ABOUT</a></li>
+<li><a href="" target="_blank">COURSE</a></li>
+<li><a href="" target="_blank">BLOG</a></li>
+<li><a href="" target="_blank">CONTACT</a></li>
+</ul>
+</div>
+</nav>
+<div class="text-box">
+<h1> affialiated under osmania university </h1>
+<p> making website is easything now in the world ,you just need to learn web development </P>
+<a href="" class="herobtn"> visit us to know more</a>
+</div>
+<section class="courses">
+<h1>courses we offer </h1>
+<p>the art of creating website is came by practice by continuous efforts in holidays andnights </p>
+<div class="row">
+<div class="courses-col">
+<h3>intermediate</h3>
+<p>the art of creating website is came by practice by continuous efforts in holidays andnights </p>
+</div>
+<div class="courses-col">
+<h3>degree</h3>
+<p>the art of creating website is came by practice by continuous efforts in holidays andnights </p>
+</div>
+<div class="courses-col">
+<h3>pg</h3>
+<p><b>the art of creating website is came by practice by continuous efforts in holidays andnights</b></p>
+</div>
+</section>
+<section class="campus">
+<h1> our global campus</h1>
+<p>the art of creating website is came by practice by continuous efforts in holidays andnights </p>
+<div class="row">
+<div class="campus-col">
+<img src="C:\Users\Abhilash Goud\Documents\images\london.png">
+</div>
+</section>
+</body>
+</html>
